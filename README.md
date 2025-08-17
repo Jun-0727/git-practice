@@ -1,6 +1,3 @@
-# Git 연습 프로젝트
+# develop README
 
-|기능|설명|
-|---|---|
-|add|working directory -> stage|
-|commit|stage -> repository|
+개발용 브랜치입니다.
