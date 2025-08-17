@@ -1,6 +1,3 @@
-# Git 연습 프로젝트
+# release 브랜치 입니다.
 
-|기능|설명|
-|---|---|
-|add|working directory -> stage|
-|commit|stage -> repository|
+develop 브랜치에서 main으로 보낼 내용을 release 해주세요
