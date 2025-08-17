@@ -1,6 +1,3 @@
-# Git 연습 프로젝트
+# hotfix 브랜치입니다.
 
-|기능|설명|
-|---|---|
-|add|working directory -> stage|
-|commit|stage -> repository|
+main에서 발생한 에러를 긴급하게 처리합니다
